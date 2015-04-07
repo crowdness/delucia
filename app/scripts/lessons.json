@@ -1,0 +1,102 @@
+{
+  "lesson01": {
+            "english" : {"title" : "Do you speak English?"},
+            "indonesian" : {"title" : "Apakah Anda bisa berbahasa Inggris"},
+            "spanish" : {"title" : "Habla usted Inglés?"}
+          },
+  "lesson02": {
+            "english" : {"title" : "My name is __________."},
+            "indonesian" : {"title" : "Nama aku"},
+            "spanish" : {"title" : "Yo me llamo"}
+          },
+  "lesson03": {
+            "english" : {"title" : "Can you speak more slowly?"},
+            "indonesian" : {"title" : "Bisakah kamu berbicara lebih pelan"},
+            "spanish" : {"title" : "Puede hablar más despacio"}
+          },
+  "lesson04": {
+            "english" : {"title" : "Where can I find a bus/taxi?"},
+            "indonesian" : {"title" : "Di mana saya dapat menemukan bus atau taksi"},
+            "spanish" : {"title" : "Dónde puedo encontrar un autobús o un taxi"}
+          },
+  "lesson05": {
+            "english" : {"title" : "Where can I find a train/metro? "},
+            "indonesian" : {"title" : "Di mana saya dapat menemukan kereta atau metro"},
+            "spanish" : {"title" : "Dónde puedo encontrar un tren o metro"}
+          },
+  "lesson06": {
+            "english" : {"title" : "Can you take me to the airport please?"},
+            "indonesian" : {"title" : "Bisakah Anda membawa saya ke bandara"},
+            "spanish" : {"title" : "Puedes por favor me llevara al aeropuerto"}
+          },
+  "lesson07": {
+            "english" : {"title" : "How much does this cost?"},
+            "indonesian" : {"title" : "Berapa harga barang ini"},
+            "spanish" : {"title" : "Cuánto cuesta este"}
+          },
+  "lesson08": {
+            "english" : {"title" : "Do you take credit cards?"},
+            "indonesian" : {"title" : "Apakah Anda mengambil kartu kredit"},
+            "spanish" : {"title" : "Aceptan tarjetas de crédito"}
+          },
+  "lesson09": {
+            "english" : {"title" : "Where is the nearest bathroom?"},
+            "indonesian" : {"title" : "Dimana kamar mandi terdekat"},
+            "spanish" : {"title" : "Dónde está el baño más cercano"}
+          },
+  "lesson10": {
+            "english" : {"title" : "Where can I get something to eat?"},
+            "indonesian" : {"title" : "Di mana saya bisa mendapatkan sesuatu untuk dimakan"},
+            "spanish" : {"title" : "Dónde puedo conseguir algo de comer"}
+          },
+  "lesson11": {
+            "english" : {"title" : "Can you show me on a map how to get there?"},
+            "indonesian" : {"title" : "Bisa anda tunjukkan pada peta bagaimana menuju ke sana"},
+            "spanish" : {"title" : "Me puede mostrar en un mapa cómo llegar"}
+          },
+  "lesson12": {
+            "english" : {"title" : "Will you write that down for me?"},
+            "indonesian" : {"title" : "Apakah Anda menuliskan untukku mà"},
+            "spanish" : {"title" : "Va a escribir para mí mà"}
+          },
+  "lesson13": {
+            "english" : {"title" : "I need help."},
+            "indonesian" : {"title" : "Aku butuh bantuan"},
+            "spanish" : {"title" : "Necesito ayuda"}
+          },
+  "lesson14": {
+            "english" : {"title" : "I’m lost."},
+            "indonesian" : {"title" : "Saya tersesat"},
+            "spanish" : {"title" : "Estoy perdido"}
+          },
+  "lesson15": {
+            "english" : {"title" : "I am an American citizen."},
+            "indonesian" : {"title" : "Saya seorang warga negara Amerika"},
+            "spanish" : {"title" : "Soy un ciudadano estadounidense"}
+          },
+  "lesson16": {
+            "english" : {"title" : "Please call the American Embassy."},
+            "indonesian" : {"title" : "Silahkan hubungi Kedutaan Besar Amerika"},
+            "spanish" : {"title" : "Por favor llame a la Embajada de Estados Unidos"}
+          },
+  "lesson17": {
+            "english" : {"title" : "Please call the police."},
+            "indonesian" : {"title" : "Silahkan hubungi polisi"},
+            "spanish" : {"title" : "Por favor llame a la policía"}
+          },
+  "lesson18": {
+            "english" : {"title" : "I need a doctor."},
+            "indonesian" : {"title" : "Saya perlu dokter"},
+            "spanish" : {"title" : "Necesito un médico"}
+          },
+  "lesson19": {
+            "english" : {"title" : "My blood type is ______."},
+            "indonesian" : {"title" : "Golongan darah saya"},
+            "spanish" : {"title" : "Mi tipo de sangre es"}
+          },
+  "lesson20": {
+            "english" : {"title" : "I’m allergic to _______."},
+            "indonesian" : {"title" : "Saya alergi terhadap"},
+            "spanish" : {"title" : "Soy alérgico a"}
+          }
+}

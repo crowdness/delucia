@@ -1,0 +1,9 @@
+<article>
+	<section>
+		<!-- <input type="search" placeholder="What do you want to learn?" />
+		<a ng-click="selectLanguage = !selectLanguage">Choose language</a> -->
+		<ol>
+			<li ng-repeat="item in lessonObj" ng-click="translate(item.english)"> {{item.english.title}} </li>
+		</ol>
+	</section>
+</article>
